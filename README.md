@@ -19,3 +19,31 @@ We connected all tables by connecting primary keys and foreign keys, then we con
 
 ### Step 4 : Tableau reporting
 After the data warehouse construction, we used Tableau for the reporting, see [here](https://github.com/thohoang87/Data-warehouse---CO2-emission/blob/main/polution%20CO2.twbx).
+
+  - Map of the average of C02 and the population by year :
+  
+  <img width="1436" alt="Capture d’écran 2022-12-02 à 20 46 34" src="https://user-images.githubusercontent.com/114235978/205374188-ab06ec4e-4fef-4942-b75c-151d64500b24.png">
+
+  - Line chart to explain the relationship between the average of CO2, GDP and the foreign direct investments by year : 
+  
+  <img width="1438" alt="Capture d’écran 2022-12-02 à 20 49 12" src="https://user-images.githubusercontent.com/114235978/205374761-bb57691e-1c17-44fc-a29f-b2ab9bcb2afe.png">
+
+  - Line chart allows to see the average of CO2 by year and by country :
+  
+  <img width="1435" alt="Capture d’écran 2022-12-02 à 20 49 32" src="https://user-images.githubusercontent.com/114235978/205374897-7d543a22-aa14-467c-984d-67136efa8842.png">
+
+  - Bar chart allows to see the relationship between the average of CO2 and GDP by region and by year :
+  
+  <img width="1438" alt="Capture d’écran 2022-12-02 à 20 49 52" src="https://user-images.githubusercontent.com/114235978/205375164-88264454-201a-4af8-b92e-5d391a25c7d4.png">
+
+  - Bar chart allows to see the relationship between the average of CO2 and GDP by continent and by year :
+  
+  <img width="1440" alt="Capture d’écran 2022-12-02 à 20 50 07" src="https://user-images.githubusercontent.com/114235978/205375327-98dbddbf-d1e4-463f-a0b5-a7774559f634.png">
+
+  - Buble chart allows to see the relationship between the average of CO2 and the foreign direct investments by year and by country :
+  
+  <img width="1435" alt="Capture d’écran 2022-12-02 à 20 50 25" src="https://user-images.githubusercontent.com/114235978/205375478-f13ead0a-2378-4162-aafb-f793e2c5a50a.png">
+
+Finally, we obtain this dashboard :
+
+<img width="1063" alt="Capture d’écran 2022-12-02 à 20 50 44" src="https://user-images.githubusercontent.com/114235978/205375698-3324b37d-065c-4cae-bd6f-73bd7c208d14.png">
