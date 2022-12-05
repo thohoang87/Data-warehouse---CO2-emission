@@ -16,6 +16,10 @@ Then we load data into Oracle for data warehouse construction.
 
 ### Step 3 : Data warehouse construction with Oracle
 We connected all tables by connecting primary keys and foreign keys, then we constructed a Star schema data warehouse with Oracle.
+<img width="900" alt="Capture d’écran 2022-11-30 à 18 37 23" src="https://user-images.githubusercontent.com/114235978/205741538-d1249239-39ff-4588-b31d-473d4f50e59a.png">
+
+<img width="279" alt="Capture d’écran 2022-11-30 à 18 37 45" src="https://user-images.githubusercontent.com/114235978/205741565-a7ee82f9-ec20-430b-8f90-fce3572a5b0d.png">
+
 
 ### Step 4 : Tableau reporting
 After the data warehouse construction, we used Tableau for the reporting, see [here](https://github.com/thohoang87/Data-warehouse---CO2-emission/blob/main/polution%20CO2.twbx).
