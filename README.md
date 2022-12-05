@@ -16,13 +16,20 @@ Then we load data into Oracle for data warehouse construction.
 
 ### Step 3 : Data warehouse construction with Oracle
 We connected all tables by connecting primary keys and foreign keys, then we constructed a Star schema data warehouse with Oracle.
+
 <img width="900" alt="Capture d’écran 2022-11-30 à 18 37 23" src="https://user-images.githubusercontent.com/114235978/205741538-d1249239-39ff-4588-b31d-473d4f50e59a.png">
 
 <img width="279" alt="Capture d’écran 2022-11-30 à 18 37 45" src="https://user-images.githubusercontent.com/114235978/205741565-a7ee82f9-ec20-430b-8f90-fce3572a5b0d.png">
 
+We also prepared some SQL queries :
+
+<img width="1168" alt="Capture d’écran 2022-11-30 à 18 25 43" src="https://user-images.githubusercontent.com/114235978/205742130-9e8fa183-3b93-4810-a27e-3cb9f6a2ec2f.png">
+
 
 ### Step 4 : Tableau reporting
 After the data warehouse construction, we used Tableau for the reporting, see [here](https://github.com/thohoang87/Data-warehouse---CO2-emission/blob/main/polution%20CO2.twbx).
+
+<img width="1359" alt="Capture d’écran 2022-12-05 à 22 00 49" src="https://user-images.githubusercontent.com/114235978/205741934-833ce4e3-f750-4d48-8a8d-e084b0c8ebba.png">
 
   - Map of the average of C02 and the population by year :
   
